@@ -1,3 +1,3 @@
 # groupproject
-# Bernard Olayemi Michael\
+# Bernard Olayemi Michael
 # Liezl Gonzaga Lizardo
